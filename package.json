@@ -27,6 +27,10 @@
     "map"
   ],
   "dependencies": {
+    "leaflet": "^1.2.0",
     "uglify-js": "^2.7.3"
+  },
+  "devDependencies": {
+    "webpack": "^3.5.5"
   }
 }
